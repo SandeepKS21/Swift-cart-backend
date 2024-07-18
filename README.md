@@ -5,10 +5,6 @@ Swift Cart Backend is a Node.js application using Mongoose for handling database
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
